@@ -28,7 +28,7 @@ The input data format for our models is JSONL. Each line of the input file conta
 
 ### Trained Models
 The model can be initialized with Pretrained Chinese BERT (Pytorch). 
-I further pretrained the PLM on in-domain dataset to find-tune the language model. The resulting weights can be downloaded from CDSW07 machine at: ```/tmp/kashif/PL-Marker/bert_model/```
+I further pretrained the PLM on in-domain dataset to find-tune the language model. 
 
 
 
