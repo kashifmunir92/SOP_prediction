@@ -1,5 +1,3 @@
-# PL-Marker
-Paper:  "[Packed Levitated Marker for Entity and Relation Extraction](https://arxiv.org/pdf/2109.06067.pdf)".
 
 ## Setup
 ### Install Dependencies
